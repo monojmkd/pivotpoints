@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pivotpoints/static/css/main.d1f1c01d.css",
+    "main.js": "/pivotpoints/static/js/main.bf32bb01.js",
+    "index.html": "/pivotpoints/index.html",
+    "main.d1f1c01d.css.map": "/pivotpoints/static/css/main.d1f1c01d.css.map",
+    "main.bf32bb01.js.map": "/pivotpoints/static/js/main.bf32bb01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f1c01d.css",
+    "static/js/main.bf32bb01.js"
+  ]
+}
